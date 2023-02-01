@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rehan6658
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Bsc. computer science 
+- 🌱 I’m currently pursuing Bsc. in computer science 
 - 💞️ I’m looking to collaborate on hack the box
 - 📫 How to reach me instagram @rehan_ali_sayyed
 <!---
